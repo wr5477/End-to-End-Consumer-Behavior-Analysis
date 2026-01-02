@@ -13,6 +13,8 @@
 ## 📌 Project Overview
 This project showcases a **complete, industry-style end-to-end data analytics workflow**, simulating
 how data analysts transform raw customer data into actionable business insights.
+<img width="4872" height="2656" alt="image" src="https://github.com/user-attachments/assets/8ed00672-04a8-4112-9902-db0f923e90c0" />
+
 
 It covers the full pipeline:
 - Data preparation & exploration
@@ -37,40 +39,24 @@ This project is ideal for:
 
 ## 🛠️ How to Use
 
-1. **Run Python Analysis**
+1. **Python Analysis**
    - Open the Jupyter notebook
-   - Perform data cleaning and exploratory analysis
+   - Perform data cleaning and exploratory data analysis (EDA)
 
 2. **SQL Analysis**
    - Load the processed data into a SQL database
-   - Execute queries from `customer_behavior_query.sql`
+   - Run queries to analyze customer behavior and purchase patterns
 
 3. **Power BI Dashboard**
-   - Open `customer_behavior_dashboard.pbix`
-   - Connect to the SQL database
-   - Refresh data to explore insights
-
----
-
-## 📂 Repository Structure
-```text
-├── data/
-│   └── customer_shopping_behavior.csv
-├── sql/
-│   └── customer_behavior_query.sql
-├── dashboard/
-│   └── customer_behavior_dashboard.pbix
-├── report/
-│   └── Customer Shopping Behavior Analysis.pdf
-├── notebooks/
-│   └── data_analysis.ipynb
-└── README.md```
+   - Open the Power BI dashboard file
+   - Connect it to the SQL database
+   - Refresh data to explore insights interactively
 
 ---
 
 ## 🎯 Key Takeaway
 This project demonstrates my ability to:
-- Build an end-to-end analytics pipeline
+- Build an end-to-end data analytics pipeline
 - Use Python and SQL for structured analysis
 - Design clear, business-oriented Power BI dashboards
 - Communicate insights effectively to non-technical stakeholders
