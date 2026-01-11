@@ -112,4 +112,4 @@ This project demonstrates my ability to:
 ---
 
 ## 🔗 Reference
-This project was developed by referencing general ideas and approaches shared by [Amlan Mohanty](https://github.com/amlan).
+This project was developed by referencing general ideas and approaches shared by [Amlan Mohanty](https://github.com/amlanmohanty1)
